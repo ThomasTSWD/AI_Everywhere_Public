@@ -12,4 +12,4 @@ Vos IAS préférées regroupées au même endroit !
 
 CTRL + ESPACE (ou CMD + ESPACE) pour afficher la fenêtre en premier plan !
 
-[Page de téléchargement v2.0](https://github.com/ThomasTSWD/AI_Everywhere_Public/releases/tag/v2.0)
+Pour télécharger l'application rdv sur l'onglet "Releases" 
